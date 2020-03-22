@@ -10,7 +10,9 @@
       "arrow-parameter",
       "property-declaration",
       "variable-declaration",
-      "member-variable-declaration"
+      "member-variable-declaration",
+      "object-destructuring",
+      "array-destructuring"
     ],
     "object-literal-sort-keys": false,
     "no-duplicate-imports": true,
